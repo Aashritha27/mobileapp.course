@@ -14,7 +14,8 @@ Apart from learning concepts and practices on computer science and programming, 
 
 .. toctree::
    :maxdepth: 2
-   :cpation: Module
+   :caption: Modules
+
    understanding-requirements-of-mobile-app
    prototyping-mobile-app-with-mit-app-inventor
    building-mobile-app-with-python-and-kivy
