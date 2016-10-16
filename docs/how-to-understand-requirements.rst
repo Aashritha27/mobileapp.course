@@ -11,9 +11,9 @@ At high level, we need to know the following factors to understands the requirem
 #. What are their "pain points"?
 #. What are their budget to solve their "pain points", including how much time / cost can they afford to build and operate the solution?
 
-Then, we may proceed to
+Then, we may start making progress by:
 
-#. Analysis the requirements and propose our work
+#. Analysing the requirements and propose our work
 #. Prototyping our app to get feedbacks from our stakeholders
 #. Building, testing, getting further feedbacks from our stakeholders and keep improving.
 
