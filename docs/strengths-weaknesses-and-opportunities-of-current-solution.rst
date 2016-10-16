@@ -14,7 +14,7 @@ Strengths of Current Solution
 Weaknesses of Current Solution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. GitHub and ReadTheDocs can only host static content, which limits the interactivity of the course. As a programming class it is ideal to allow students editing and running programming quiz without leaving the course. Existing in-browser solutions are either `lack of 3rd party libraries support<http://www.skulpt.org/>`_, or `requires running and maintaining expensive servers<http://runestoneinteractive.org/>`_, which are not ideal to be plugged into the our current solution.
+#. GitHub and ReadTheDocs can only host static content, which limits the interactivity of the course. As a programming class it is ideal to allow students editing and running programming quiz without leaving the course. Existing in-browser solutions are either `lack of 3rd party libraries support <http://www.skulpt.org/>`_, or `requires running and maintaining expensive servers <http://runestoneinteractive.org/>`_, which are not ideal to be plugged into the our current solution.
 #. The current solution is web-based, and is inheriently less responsive than mobile app.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
