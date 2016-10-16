@@ -13,7 +13,7 @@ This course assumes you a novice or no prior programming experience, by firstly 
 Apart from learning concepts and practices on computer science and programming, this course would also equip you with the skills needed for setting up your own toolkit for development, including set up a Linux virtual machine with integrated development environment (IDE), GitHub the version control system, and Kivy the framework for building mobile apps in Python.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Modules
 
    you-can-build-an-app-to-impact-the-world
