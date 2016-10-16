@@ -7,3 +7,9 @@ Welcome to this module. As in the previous module, we have learnt how an individ
 We believe you can also do that :) Before you get started, in this module we would like to discuss and analysis the requirements of the mobile learning app that you are going to build. Understanding requirements is an important poart software development process that helps you to conceptualize and build your app to successfully solve real problem and impact the world.
 
 Excited? Let's get started :)
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents
+
+   how-to-understand-requirements
