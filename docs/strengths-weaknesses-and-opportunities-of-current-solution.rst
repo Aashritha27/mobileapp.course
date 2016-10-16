@@ -1,6 +1,6 @@
-============================================================
-Strengths, Weaknesses, and Opportunities of Current Solution
-============================================================
+==========================================================
+Current Solution: Strengths, Weaknesses, and Opportunities
+==========================================================
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Strengths of Current Solution
