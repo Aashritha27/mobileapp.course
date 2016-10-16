@@ -16,6 +16,7 @@ Apart from learning concepts and practices on computer science and programming, 
    :maxdepth: 2
    :caption: Modules
 
+   you-can-build-an-app-to-impact-the-world
    understanding-requirements-of-mobile-app
    prototyping-mobile-app-with-mit-app-inventor
    building-mobile-app-with-python-and-kivy
