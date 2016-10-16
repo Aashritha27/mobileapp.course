@@ -13,3 +13,4 @@ Excited? Let's get started :)
    :caption: Contents
 
    how-to-understand-requirements
+   how-this-course-is-currently-built-good-points-and-pain-points
