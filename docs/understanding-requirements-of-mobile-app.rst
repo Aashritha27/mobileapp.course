@@ -15,3 +15,4 @@ Excited? Let's get started :)
    how-to-understand-requirements
    who-are-the-stakeholders-of-our-app-and-how-do-they-work
    strengths-weaknesses-and-opportunities-of-current-solution
+   requirements-of-mobile-learning-app
