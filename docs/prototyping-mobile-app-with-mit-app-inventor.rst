@@ -5,4 +5,4 @@ Prototyping the Mobile App with MIT App Inventor
 
 App Inventor allows you to learn how to build prototype to capture and validate user requirements. This prototype is something that you can refer to later on when you implement a more complete version of the app by Python.
 
-At this point, only visual components are in-scope for Prototype, and synchronization of course content from GitHub is not implemented.
+At this point, only certain visual components are in-scope for Prototype, with simple synchronization of course content from GitHub are implemented.
