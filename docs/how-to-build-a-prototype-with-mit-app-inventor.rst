@@ -15,10 +15,16 @@ For our context of building our prototype, MIT App Inventors provides the follow
 #. Instant feedback: `Install AI2 Companion <https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en>`_ from Google Play store to try the app instantly while you build the protoype, therefore speeding up the feedback cycle.
 #. Connectivity to GitHub: One of the key feature of our mobile app is the ability ot sync up content instantly from GitHub, as well as ability to navigate among pages of these course contents as a graph of interconnected documents. App Inventor has built-in Web connectivity which allows us to download the course content as source file from GitHub and to extract contents / links from it accordingly. This way we can address the feasibility of synchronizing from GitHub as early as possible.
 
-Designing UI with App Inventor
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Designing UI with App Inventor Designer View
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: app-inventor-designer-view.png
 
 Let's take a look at how you can build your first prototype UI with App Inventor. In App Inventor, you design your UI via a drag-and-drop UI builder namely Designer View. From the left of the screen we have dragged several Labels and Buttons with different format and position. You can design your UI very intuitively with a very shallow learning curve. Check out `User Interface Components <http://ai2.appinventor.mit.edu/reference/components/userinterface.html>`_ for details.
 
+Building Logic with App Inventor Blocks View
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: app-inventor-blocks-view.png
+
+Then you may define the workflow and UI behavior of our app in Blocks view. App Inventor allows you to build your program visually by buliding blocks. If you come with no programmng background and would need more walkthough you may check out `this tutorial <http://appinventor.mit.edu/explore/get-started.html>`_ and continuue.
