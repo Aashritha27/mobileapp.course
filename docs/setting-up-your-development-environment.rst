@@ -20,7 +20,7 @@ Install Kivy, Git, and PIP
   sudo apt upgrade
   sudo apt install python-kivy
   sudo apt install git
-  sudo apt intall pip
+  sudo apt install pip
 
 Intall Pycharm IDE
 ~~~~~~~~~~~~~~~~~~
