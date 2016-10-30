@@ -11,4 +11,4 @@ MIT App Inventor is a visual UI and programming environment which allow us to bu
    designing-ui-with-app-inventor-designer-view
    building-logic-with-app-inventor-blocks-view
    playing-around-the-working-prototype
-   questions-exercise-for-you
+   questions-and-exercise-for-you
