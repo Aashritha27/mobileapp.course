@@ -37,6 +37,7 @@ Intall Pycharm IDE
   mv pycharm* ~/pycharm
 
 Running PyCharm
+~~~~~~~~~~~~~~~
 
 #. Open terminal.
 #. Run Pycharm in terminal by:
