@@ -13,3 +13,4 @@ We will guide you to complete these activities step-by-step. Let's get started :
 
    setting-up-your-development-environment
    working-with-pycharm-ide
+   lets-play-around-pycharm-git-github-and-kivy-together
