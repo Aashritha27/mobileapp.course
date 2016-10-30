@@ -46,4 +46,6 @@ Running PyCharm
 
   ~/pycharm/bin/pycharm.sh
 
+If PyCharm asked for Key binding / mappings, choose Eclipse for the sake of this course.
+
 In the next section. You will learn about what you have just setup.
