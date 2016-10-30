@@ -1,6 +1,8 @@
 Setting up Your Development Environment
 =======================================
 
+Let's get the hands dirty by doing some setup. We will explain what you have done later. Just feel free to try it out for now :)
+
 Download and Install
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -34,8 +36,13 @@ Intall Pycharm IDE
   rm pycharm*.tar.gz
   mv pycharm* ~/pycharm
 
-Run Pycharm in command line by:
+Running PyCharm
+
+#. Open terminal.
+#. Run Pycharm in terminal by:
 
 .. code::
 
   ~/pycharm/bin/pycharm.sh
+
+In the next section. You will learn about what you have just setup.
