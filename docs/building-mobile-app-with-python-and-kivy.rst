@@ -12,3 +12,4 @@ We will guide you to complete these activities step-by-step. Let's get started :
    :caption: Contents
 
    setting-up-your-development-environment
+   working-with-pycharm-ide
