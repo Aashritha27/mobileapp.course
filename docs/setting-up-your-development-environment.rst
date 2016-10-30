@@ -3,14 +3,14 @@ Setting up Your Development Environment
 
 Let's get the hands dirty by doing some setup. We will explain what you have done later. Just feel free to try it out for now :)
 
-Download and Install
-~~~~~~~~~~~~~~~~~~~~
+Download and Install Virtual Box and Ubuntu Linux
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. Download and install `Virtual Box <https://www.virtualbox.org/>`_.
 #. Download and add `Ubuntu 64 Bit Virtual Box image <http://www.osboxes.org/ubuntu/>`_ into your Virtual Box. Latest version is recommended. Please refer to the web site for user name and password.
 
-Commands to be Run
-~~~~~~~~~~~~~~~~~~
+Install Kivy, Git, and PIP
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. Start the Ubuntu. Input the username and password obtained in the last step to login. Right click desktop and choose open terminal.
 #. In the terminal, run the following command:
@@ -25,7 +25,7 @@ Commands to be Run
 Intall Pycharm IDE
 ~~~~~~~~~~~~~~~~~~
 
-#. In your Ubuntu. Open Firefox. And download `PyCharm Commnity Edition for Linux <https://www.jetbrains.com/pycharm/download/#section=linux>`_
+#. In your Ubuntu. Open Firefox. And download `Pycharm Commnity Edition for Linux <https://www.jetbrains.com/pycharm/download/#section=linux>`_
 #. By default, it would be saved at ~/Downloads.
 #. Open terminal again. Type the following:
 
