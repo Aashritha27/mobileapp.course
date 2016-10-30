@@ -35,7 +35,21 @@ If you still remmeber, in the previous setup page you have not only installed Py
 Step 1: Forking a Project into Your GitHub Account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. To get started using Git and GitHub. You need a GitHub account. `Create a GitHub account <https://github.com/join>`_ if you do not have one.
+To get started using Git and GitHub. You need a GitHub account. 
+
+#. `Create a GitHub account <https://github.com/join>`_ if you do not have one.
 #. Visit `Kivy Crash Course <https://github.com/inclement/kivycrashcourse>`_ and press the Fork button.
 
 .. image:: fork.png
+
+Step 2: Clone the Forked Project into Your Machine via PyCharm IDE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: clone-url.png
+
+Now you have `forked a project <https://help.github.com/articles/fork-a-repo/>`_ into your GitHub account. Next step is to clone this project into your local machine. To do this:
+
+#. Follow the steps as mentioned in `here <https://www.jetbrains.com/help/pycharm/2016.1/cloning-a-repository-from-github.html>`_. Locate the kivycrashcourse repo to be cloned into your machine.
+#. If it is successful, you should be seeing a screen like the following.
+
+.. image:: cloned-via-pycharm.png
