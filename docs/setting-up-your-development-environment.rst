@@ -15,10 +15,10 @@ Commands to be Run
 
 .. code::
 
-sudo apt upgrade
-sudo apt install python-kivy
-sudo apt install git
-sudo apt intall pip
+  sudo apt upgrade
+  sudo apt install python-kivy
+  sudo apt install git
+  sudo apt intall pip
 
 Intall Pycharm IDE
 ~~~~~~~~~~~~~~~~~~
@@ -29,13 +29,13 @@ Intall Pycharm IDE
 
 .. code::
 
-cd ~/Downloads
-tar xvzf pycharm*.tar.gz
-rm pycharm*.tar.gz
-mv pycharm* ~/pycharm
+  cd ~/Downloads
+  tar xvzf pycharm*.tar.gz
+  rm pycharm*.tar.gz
+  mv pycharm* ~/pycharm
 
 Run Pycharm in command line by:
 
 .. code::
 
-~/pycharm/bin/pycharm.sh
+  ~/pycharm/bin/pycharm.sh
