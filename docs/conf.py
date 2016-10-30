@@ -259,7 +259,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PythonicCS1BuildaMobileApp.tex', u'Pythonic CS1: Build a Mobile App Documentation',
+    (master_doc, 'PythonicCS1BuildaMobileApp.tex', u'Pythonic CS1: Build a Mobile App',
      u'Ric Yik', 'manual'),
 ]
 
