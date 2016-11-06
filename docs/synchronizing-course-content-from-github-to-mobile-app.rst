@@ -10,6 +10,7 @@ So far, we have built basic functionality of the mobile learning app. In this mo
 .. toctree::
    :maxdepth: 1
    :caption: Contents
+
    how-to-add-a-new-feature-to-the-mobile-learning-app
    how-to-create-a-feature-branch-in-git
    how-to-add-a-unit-test
