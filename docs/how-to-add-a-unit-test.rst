@@ -14,3 +14,9 @@ Adding a Unit Test for a Feature
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Let's demostrate how to add a Unit to test the feature I am building, i.e. support of external hyperlink. Let's understand the requirements:
+
+.. image:: raw-hyperlink.png
+
+As you can see above, hyperlinks are not displayed properly in the screen. We would like to add support for hyperlink such that:
+
+#. We would read the page line-by-line, and replace all \`link description \<link\>\`_ patterns such that they are instead become [ref=link]link description[/ref]. For example, the above link should be presented as [ref=https://en.wikipedia.org/wiki/Unit_testing]unit testing[/ref].
