@@ -13,7 +13,16 @@ Step 2: Clone to PyCharm
 
 #. Like what we did previously. Please refer to the previous document for details.
 
-Step 3: Run the Starter Code
+Step 3: Switch to 0.1.0 Branch
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Please type the following. We will explain why we need to do that in the next module.
+
+.. code::
+
+  git checkout release/0.1.0
+
+Step 4: Run the Starter Code
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. By locating main.py and run it. You should see a screen like this:
