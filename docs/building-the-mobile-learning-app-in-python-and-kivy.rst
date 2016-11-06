@@ -16,7 +16,7 @@ Step 2: Clone to PyCharm
 Step 3: Switch to 0.1.0 Branch
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Please type the following. We will explain why we need to do that in the next module.
+Please type the following. We will explain why we need to do that in the next module :)
 
 .. code::
 
