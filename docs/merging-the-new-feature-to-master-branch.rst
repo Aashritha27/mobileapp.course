@@ -22,7 +22,7 @@ Pull request allows your teammates to review our change before it is merged into
 #. `About Pull Request <https://help.github.com/articles/about-pull-requests/>`_
 #. `Creating a Pull Request <https://help.github.com/articles/creating-a-pull-request/>`_
 #. `Merging Pull Request <https://help.github.com/articles/merging-a-pull-request/>`_
-#. `Our Pull Request <https://github.com/pythonicbridge/mobileapp.kivy/pull/1>`
+#. `Our Pull Request <https://github.com/pythonicbridge/mobileapp.kivy/pull/1>`_
 
 Next
 ~~~~
