@@ -71,11 +71,14 @@ Discussion
 #. Once you have finished, in your own word, can you explain what does teh regular expression do which passes all the tests?
 #. Then, in your own word, can you explain why the first attempt does not work for more than 1 hyperlink?
 
-Next
-~~~~
+Seeing the New Feature
+~~~~~~~~~~~~~~~~~~~~~~
 
 So now my feature looks good. I can intrgrate my change to see it in shot:
 
 .. image:: hyperlink.png
+
+Next
+~~~~
 
 Next, let's integrate my change back to master.
