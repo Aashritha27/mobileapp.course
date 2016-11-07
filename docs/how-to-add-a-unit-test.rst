@@ -76,3 +76,6 @@ Next
 
 So now my feature looks good. I can intrgrate my change to see it in shot:
 
+.. image:: hyperlink.png
+
+Next, let's integrate my change back to master.
