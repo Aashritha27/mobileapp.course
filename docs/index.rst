@@ -15,5 +15,5 @@ Apart from learning concepts and practices on computer science and programming, 
    understanding-requirements-of-mobile-app
    prototyping-mobile-app-with-mit-app-inventor
    building-mobile-app-with-python-and-kivy
-   synchronizing-course-content-from-github-to-mobile-app
+   tdd
    whats-next
