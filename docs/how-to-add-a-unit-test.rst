@@ -41,3 +41,38 @@ As you can see. Pycharm will show you how many test cases are you passing / fail
 
 In later modules, you will see how we make use of unit testing to not just improve the correctness of our code, but also improve the quality of our code. We collectively call this effort a `Test-driven Development (TDD) <https://en.wikipedia.org/wiki/Test-driven_development>`_ methdology. For now, let's focus on writing code to passes all of our test cases first.
 
+Implementing the Function to Pass the Tests
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Let's try implementing the function like the following:
+
+.. code:: python
+  
+  def format_hyperlink(self, line):
+    return re.sub('`(.*) <([^>]*)>`_', r'[ref=\2]\1[/ref]', line)
+    
+And run the test again. This time we have passed 2 cases, but leaving 1 case failing:
+
+.. image:: pass-1-test.png
+
+Now let's fix our code to be the following:
+
+.. code:: python
+  
+  def format_hyperlink(self, line):
+    return re.sub('`([^`]*) <([^>]*)>`_', r'[ref=\2]\1[/ref]', line)
+
+And run the test again. This time we have passed all tests. Cool!
+
+Discussion
+~~~~~~~~~~
+
+#. In the implementation above, we are using `Regular Expression <https://docs.python.org/2/library/re.html>`_ module to help us extracting information from a pattern and replacing the matching pattern with the re-formatted information that was extracted previously. You may check out `this video <https://www.youtube.com/watch?v=kWyoYtvJpe4>`_ for a tutorial.
+#. Once you have finished, in your own word, can you explain what does teh regular expression do which passes all the tests?
+#. Then, in your own word, can you explain why the first attempt does not work for more than 1 hyperlink?
+
+Next
+~~~~
+
+So now my feature looks good. I can intrgrate my change to see it in shot:
+
