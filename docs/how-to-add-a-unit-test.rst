@@ -64,6 +64,8 @@ Now let's fix our code to be the following:
 
 And run the test again. This time we have passed all tests. Cool!
 
+.. image:: pass-all-tests.png
+
 Discussion
 ~~~~~~~~~~
 
