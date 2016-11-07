@@ -39,5 +39,5 @@ As you can see. Pycharm will show you how many test cases are you passing / fail
 #. Make change to pass tests.
 #. Repeat until you have passed all tests.
 
-In later modules, you will see how we make use of unit testing to not just improve the correctness of our code, but also improve the quality of our code. We collectively call this effort a `Test-driven Development (TDD) <https://en.wikipedia.org/wiki/Test-driven_development>` methdology. For now, let's focus on writing code to passes all of our test cases first.
+In later modules, you will see how we make use of unit testing to not just improve the correctness of our code, but also improve the quality of our code. We collectively call this effort a `Test-driven Development (TDD) <https://en.wikipedia.org/wiki/Test-driven_development>`_ methdology. For now, let's focus on writing code to passes all of our test cases first.
 
