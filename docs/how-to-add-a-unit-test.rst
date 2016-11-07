@@ -29,4 +29,15 @@ Adding Unit Test with Pycharm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. Add a method format_hyperlink(self, line) inside CourseApp class. For now, let's simply add return line as its implementation.
-#. Add a file test_CourseApp.py. It should look like this.
+#. Add a file test_CourseApp.py. It should look like this. Press ALT-SHIFT-10 to run it.
+
+.. image:: running-test-in-pycharm.png
+
+As you can see. Pycharm will show you how many test cases are you passing / failing. In this case, as we haven't implement anything yet in our format_hyperlink(self, line) function, it is expected that we have failing cases. Here we are demostrating one important feature on how unit test can be used to drive our development effort that:
+
+#. Before startng writing code, write test which fail first.
+#. Make change to pass tests.
+#. Repeat until you have passed all tests.
+
+In later modules, you will see how we make use of unit testing to not just improve the correctness of our code, but also improve the quality of our code. We collectively call this effort a `Test-driven Development (TDD) <https://en.wikipedia.org/wiki/Test-driven_development>` methdology. For now, let's focus on writing code to passes all of our test cases first.
+
