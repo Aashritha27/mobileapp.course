@@ -32,7 +32,7 @@ As usual we will read the RST file for their instruction. For simplicity, assume
     
     class ProgrammingQuiz(unittest.TestCase):
       def test1():
-        self.assertEqual('Hello world', say_hello('Hello world'))
+        self.assertEqual('Hello world', say_hello('world'))
 
 When we intrepret the code directive, followed by # PROGRAMMING QUIZ comment, our application should be:
 
@@ -69,7 +69,7 @@ If you implement the things correctly, the following code block will become a li
   
   class ProgrammingQuiz(unittest.TestCase):
     def test1():
-      self.assertEqual('Hello world', say_hello('Hello world'))
+      self.assertEqual('Hello world', say_hello('world'))
 
 Reference Implementation
 ~~~~~~~~~~~~~~~~~~~~~~~~
