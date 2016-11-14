@@ -11,6 +11,9 @@ Then we would end this course by wrapping up what we have learnt, plus some addi
 
 Let's begin :)
 
-.. toc::
-  buildozer
-  codeinput
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents
+   
+   buildozer
+   codeinput
