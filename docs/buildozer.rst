@@ -1,5 +1,5 @@
-How to build an App Which is Ready for Deployment into Google Play Store
-========================================================================
+Optional: How to build an App Which is Ready for Deployment into Google Play Store
+==================================================================================
 
 So far we have been using Kivy Launcher to run our main.py file without any compliation. It works great for development. But if we want to deploy the app as a standalone program into Google Play Store, we need a way to build an `APK Package <https://en.wikipedia.org/wiki/Android_application_package>`_. APK Package is a package that contains the following information:
 
