@@ -53,6 +53,24 @@ Starter Code / Test Cases
 
 There is no starter code / start test cases for this time. You may refer to previous module on how to start :)
 
+Sample Programming Quiz
+~~~~~~~~~~~~~~~~~~~~~~~
+
+If you implement the things correctly, the following code block will become a link the a programming quiz when your mobile app visit this page:
+
+.. code:: python
+
+  # PROGRAMMING QUIZ
+  
+  import unittest
+  
+  def say_hello(something):
+    return something
+  
+  class ProgrammingQuiz(unittest.TestCase):
+    def test1():
+      self.assertEqual('Hello world', say_hello('Hello world'))
+
 Reference Implementation
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
