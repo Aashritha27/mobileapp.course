@@ -27,7 +27,7 @@ As usual we will read the RST file for their instruction. For simplicity, assume
     
     import unittest
     
-    def say(something):
+    def say_hello(something):
       return something
     
     class ProgrammingQuiz(unittest.TestCase):
