@@ -13,5 +13,5 @@ Let's begin :)
    :maxdepth: 1
    :caption: Contents
    
-   buildozer
    codeinput
+   buildozer
