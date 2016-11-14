@@ -71,6 +71,10 @@ If you implement the things correctly, the following code block will become a li
     def test1():
       self.assertEqual('Hello world', say_hello('world'))
 
+And the screen would look something like this:
+
+.. image:: programming-quiz.png
+
 Reference Implementation
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
