@@ -70,7 +70,7 @@ If you implement the things correctly, the following code block will become a li
     return something
   
   class ProgrammingQuiz(unittest.TestCase):
-    def test1(self):
+    def test_say_hello(self):
       self.assertEqual('Hello world', say_hello('world'))
   
   # END OF PROGRAMMING QUIZ
