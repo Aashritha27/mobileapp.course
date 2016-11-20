@@ -25,12 +25,12 @@ As usual we will read the RST file for their instruction. For simplicity, assume
   
     # PROGRAMMING QUIZ
     
-    import unittest
+    import unittest2
     
     def say_hello(something):
       return something
     
-    class ProgrammingQuiz(unittest.TestCase):
+    class ProgrammingQuiz(unittest2.TestCase):
       def test1(self):
         self.assertEqual('Hello world', say_hello('world'))
       
@@ -64,12 +64,12 @@ If you implement the things correctly, the following code block will become a li
 
   # PROGRAMMING QUIZ
   
-  import unittest
+  import unittest2
   
   def say_hello(something):
     return something
   
-  class ProgrammingQuiz(unittest.TestCase):
+  class ProgrammingQuiz(unittest2.TestCase):
     def test_say_hello(self):
       self.assertEqual('Hello world', say_hello('world'))
   
