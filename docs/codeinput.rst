@@ -15,5 +15,5 @@ We will follow the steps exactly to implement the programming quiz feature. Due 
    :maxdepth: 1
    :caption: Contents
 
-   finalproject-requirements
+   finalproject-req
    finalproject-quiz
