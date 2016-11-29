@@ -11,7 +11,7 @@ Recall the steps we need to implement a new feature to our app:
 
 We will follow the steps exactly to implement the programming quiz feature. Due to the time constraints, for now we will disucss the high level design and leave the actual implementation as an exercise for the students.
 
-.. toctre::
+.. toctree::
     :maxdepth: 1
     :caption: Contents
 
